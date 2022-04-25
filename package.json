@@ -1,8 +1,8 @@
 {
   "name": "@ehyqal/mafiasdk",
   "license": "MIT",
-  "version": "0.0.11",
-  "description": "🛠 An SDK for building applications on top of definixswap.",
+  "version": "1.0.1",
+  "description": "🛠 An SDK for building applications on top of MAFIASWAP.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyqal/definixssdk.git"
+    "url": "git+https://github.com/hyqal/mafia-sdk.git"
   },
   "keywords": [
     "pancakeswap",
@@ -62,9 +62,9 @@
     "singleQuote": true
   },
   "bugs": {
-    "url": "https://github.com/hyqal/definixssdk/issues"
+    "url": "https://github.com/hyqal/mafia-sdk/issues"
   },
-  "homepage": "https://github.com/hyqal/definixssdk#readme",
+  "homepage": "https://github.com/hyqal/mafia-sdk#readme",
   "directories": {
     "test": "test"
   },
